@@ -77,7 +77,7 @@ This project addresses the critical challenge of payment fraud in digital transa
 
 ## 👥 Project Team
 
-- **Student:** Your Name
+- **Student:** Tao Muzi
 - **Supervisor:** Dr. Supervisor Name
 - **Course:** COMP4801/FITE4801 - Final Year Project
 - **Academic Year:** 2025-2026
